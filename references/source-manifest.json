@@ -1,0 +1,790 @@
+{
+  "reviewed_on": "2026-09-29",
+  "scope": "LinkedIn skills from the five repositories in the user attachment; includes three routers. Other websites excluded. Reference knowledge, not installed account integrations.",
+  "skill_entrypoints": 35,
+  "functional_skills": 32,
+  "routers": 3,
+  "identical_marketplace_copies_excluded": 13,
+  "repositories": [
+    {
+      "repo": "quantumbyte31/linkedin-skills",
+      "commit": "e37c3d4749f7c2981b06b51c690a181507f90c28",
+      "url": "https://github.com/quantumbyte31/linkedin-skills",
+      "entrypoints": [
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/quantumbyte31/SOURCE.md",
+          "sha256": "42b2cce899281050d6f8824aede223e18f291508c44b4f95510f9d7a16cca7f3"
+        },
+        {
+          "upstream_path": "skills/linkedin-auth/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-auth/SOURCE.md",
+          "sha256": "a3b8479f2ff9cac6aa5b73e5cb795707bc3b493479c0d8158b8b27cfee76ebd5"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-ops/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-content-ops/SOURCE.md",
+          "sha256": "70707f8d16c7747c196b1592b98814e5039e21da2dd1f0f6624df7995fafd8fa"
+        },
+        {
+          "upstream_path": "skills/linkedin-explore/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-explore/SOURCE.md",
+          "sha256": "b0f1bec7dacae169dc7632d7ef8190b8c3518235e4d75aad38918a7e402decba"
+        },
+        {
+          "upstream_path": "skills/linkedin-interact/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-interact/SOURCE.md",
+          "sha256": "96ddda79ed6950a9ac172c11ce27c35395761a466ce7cc7541f86b7f7bd4c4e2"
+        },
+        {
+          "upstream_path": "skills/linkedin-lead-gen/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-lead-gen/SOURCE.md",
+          "sha256": "257fd7b8d3eaee1b9fd80aee13146f595f05043f5c22ad1139ed2eccda656b98"
+        },
+        {
+          "upstream_path": "skills/linkedin-publish/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-publish/SOURCE.md",
+          "sha256": "a84e7ea8e76579306e6a394e6e4c4754cfb1bb8d9b13a2c1fee67869e4a97924"
+        }
+      ],
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "references/sources/quantumbyte31/LICENSE",
+          "sha256": "4fa78e9aee5ad85e5761f103bed02360b7fb561868638ef5d859a2ccec1cb318"
+        },
+        {
+          "upstream_path": "README.md",
+          "local_path": "references/sources/quantumbyte31/README.md",
+          "sha256": "166736dcc2317bcd8dfaf68e907b98300582210939776959ce383f8f7c45a252"
+        },
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/quantumbyte31/SOURCE.md",
+          "sha256": "42b2cce899281050d6f8824aede223e18f291508c44b4f95510f9d7a16cca7f3"
+        },
+        {
+          "upstream_path": "skills/linkedin-auth/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-auth/SOURCE.md",
+          "sha256": "a3b8479f2ff9cac6aa5b73e5cb795707bc3b493479c0d8158b8b27cfee76ebd5"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-ops/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-content-ops/SOURCE.md",
+          "sha256": "70707f8d16c7747c196b1592b98814e5039e21da2dd1f0f6624df7995fafd8fa"
+        },
+        {
+          "upstream_path": "skills/linkedin-explore/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-explore/SOURCE.md",
+          "sha256": "b0f1bec7dacae169dc7632d7ef8190b8c3518235e4d75aad38918a7e402decba"
+        },
+        {
+          "upstream_path": "skills/linkedin-interact/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-interact/SOURCE.md",
+          "sha256": "96ddda79ed6950a9ac172c11ce27c35395761a466ce7cc7541f86b7f7bd4c4e2"
+        },
+        {
+          "upstream_path": "skills/linkedin-lead-gen/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-lead-gen/SOURCE.md",
+          "sha256": "257fd7b8d3eaee1b9fd80aee13146f595f05043f5c22ad1139ed2eccda656b98"
+        },
+        {
+          "upstream_path": "skills/linkedin-publish/SKILL.md",
+          "local_path": "references/sources/quantumbyte31/skills/linkedin-publish/SOURCE.md",
+          "sha256": "a84e7ea8e76579306e6a394e6e4c4754cfb1bb8d9b13a2c1fee67869e4a97924"
+        }
+      ]
+    },
+    {
+      "repo": "browsing-skills/browsing-skills",
+      "commit": "07855b500d210751fa4d5c54bc553bf30581d345",
+      "url": "https://github.com/browsing-skills/browsing-skills",
+      "entrypoints": [
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/browsing-skills/SOURCE.md",
+          "sha256": "24dd33696a9d56d28f78d61d82008334c0a5ae2264497880402c9d146a422b16"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/SKILL.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/SOURCE.md",
+          "sha256": "47dade517b88520916ed1b4a6b80885ae573f85c00a63a444432862a5b4dfc85"
+        }
+      ],
+      "files": [
+        {
+          "upstream_path": "BENCHMARKS.md",
+          "local_path": "references/sources/browsing-skills/BENCHMARKS.md",
+          "sha256": "6f6edb1300fae91a87862a2468e4a805cf27c31436cd9237a65983acad498a0c"
+        },
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "references/sources/browsing-skills/LICENSE",
+          "sha256": "853e4ad9abe7f3a35e9eb0f2992e29c53ba7f4b5334b8aaa381353f0fe23a1f7"
+        },
+        {
+          "upstream_path": "README.md",
+          "local_path": "references/sources/browsing-skills/README.md",
+          "sha256": "928985a86660f2c6e7b7bd8cd81b9faa3eed7caf710c00a85628e4bd67292c22"
+        },
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/browsing-skills/SOURCE.md",
+          "sha256": "24dd33696a9d56d28f78d61d82008334c0a5ae2264497880402c9d146a422b16"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/SKILL.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/SOURCE.md",
+          "sha256": "47dade517b88520916ed1b4a6b80885ae573f85c00a63a444432862a5b4dfc85"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/references/company-data.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/references/company-data.md",
+          "sha256": "0f2662a73ab03c2d5ce85214349e7aefbfbe0780eb517abe52041c1ebad9a06f"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/references/job-search.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/references/job-search.md",
+          "sha256": "869604e8e01a0da1eaf2befee67b684816e3512de9cfb74a61b9eb40fc4166c3"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/references/post-data.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/references/post-data.md",
+          "sha256": "f43b4f81fd07b73faef225ca04ebd991e9d471cce5a015b64fb462769f8a7547"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/references/profile-data.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/references/profile-data.md",
+          "sha256": "1af5474d043f04a0388702a4c6f34a3bbde80c09d71af6238a623cd03bb3be49"
+        },
+        {
+          "upstream_path": "skills/linkedin.com/references/saved-posts.md",
+          "local_path": "references/sources/browsing-skills/skills/linkedin.com/references/saved-posts.md",
+          "sha256": "41ca956cfb8e49481d43be60295e5c6c419186c62a82a3ef4d3c181ffb9439e5"
+        }
+      ]
+    },
+    {
+      "repo": "sergebulaev/linkedin-skills",
+      "commit": "14d332b9e91e314f2e35b299246ced6df2594fab",
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "entrypoints": [
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/sergebulaev/SOURCE.md",
+          "sha256": "ba248def9f2612a16712eb3933c4e6cc4ec13f8dfcfb31cc9e1cbec9b88eef56"
+        },
+        {
+          "upstream_path": "skills/linkedin-comment-drafter/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-comment-drafter/SOURCE.md",
+          "sha256": "81af2d20a84432e9d2c9964243453f0187fe35673f04e11067d8286f34a4835a"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-planner/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-content-planner/SOURCE.md",
+          "sha256": "06a49bb5c69e69fda1e034d17868978f836a394ff1ef800a9c4c479c9322dd76"
+        },
+        {
+          "upstream_path": "skills/linkedin-employee-advocacy/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-employee-advocacy/SOURCE.md",
+          "sha256": "eff2818223f03574bcfc735c9b4c472af161a2b7b539c21e40639319b347d3dd"
+        },
+        {
+          "upstream_path": "skills/linkedin-engager-analytics/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-engager-analytics/SOURCE.md",
+          "sha256": "97b348d54e3a9f90d8d63019bd7ec22c4ceb0b6235dcc5d246bb5f5e603b4754"
+        },
+        {
+          "upstream_path": "skills/linkedin-hook-extractor/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-hook-extractor/SOURCE.md",
+          "sha256": "db4a791fb883bf64d8600587196dc8516b116364683c01900cfe9c7f0a2164e3"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/SOURCE.md",
+          "sha256": "15d30a63d7f4bf4e60c82565dd25a0c729af038c70243dc6b22d3b672895bd0f"
+        },
+        {
+          "upstream_path": "skills/linkedin-interviewer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-interviewer/SOURCE.md",
+          "sha256": "64e95cdb1238e66a4ae2df2995e9c6ab6098ed02b7194db472c8075ba9200eb5"
+        },
+        {
+          "upstream_path": "skills/linkedin-post-writer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-post-writer/SOURCE.md",
+          "sha256": "50dc3dbd5e63f0feb38edd91773c1cc9fa7d244343158503d9f3e6d77dfc686f"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/SOURCE.md",
+          "sha256": "bfa2b0b69a42547d7cafb8528a4b0cb00471fa578eaa9641977c31338648388c"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/SOURCE.md",
+          "sha256": "4fa68ca268de72fe2a2584634f71588f805ecd1c3c6423ab62350cde6a1cfeab"
+        },
+        {
+          "upstream_path": "skills/linkedin-repurposer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-repurposer/SOURCE.md",
+          "sha256": "8b5e1861d17ebfbc6a7cfcb8714ced0f59cd002cb22b5fdbadabb5746f726e19"
+        },
+        {
+          "upstream_path": "skills/linkedin-thread-monitor/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-thread-monitor/SOURCE.md",
+          "sha256": "911dd932eab152b1852a9313db29c7989056464d4d85b965ffe6c33ea0b7786e"
+        }
+      ],
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "references/sources/sergebulaev/LICENSE",
+          "sha256": "1a21cf7c208981ef516dcf2edb4517dab907b8dc94c2cfc523565c794ea8e148"
+        },
+        {
+          "upstream_path": "README.md",
+          "local_path": "references/sources/sergebulaev/README.md",
+          "sha256": "d35b5799180acd8d26c644e81e4e5e8c71440d54ddd23759d16a17e87c54caa2"
+        },
+        {
+          "upstream_path": "SKILL.md",
+          "local_path": "references/sources/sergebulaev/SOURCE.md",
+          "sha256": "ba248def9f2612a16712eb3933c4e6cc4ec13f8dfcfb31cc9e1cbec9b88eef56"
+        },
+        {
+          "upstream_path": "references/algorithm-heuristics.md",
+          "local_path": "references/sources/sergebulaev/references/algorithm-heuristics.md",
+          "sha256": "e1e13dadebc6b20ee5ceb0f30d4b3fbbad29de87478eebc28b42549131506f83"
+        },
+        {
+          "upstream_path": "references/engagement-metrics-taxonomy.md",
+          "local_path": "references/sources/sergebulaev/references/engagement-metrics-taxonomy.md",
+          "sha256": "70066d8c125510a95221c6f9615e760a9d8e58a55ec4045c94604ed80760e0a1"
+        },
+        {
+          "upstream_path": "references/founder-topics.md",
+          "local_path": "references/sources/sergebulaev/references/founder-topics.md",
+          "sha256": "ff48ff651362cc0bfc8eaeefc4a9684f49f777dcd0d048810304e5c7d0482b9e"
+        },
+        {
+          "upstream_path": "references/hook-formulas.md",
+          "local_path": "references/sources/sergebulaev/references/hook-formulas.md",
+          "sha256": "7909ce17e1ae4332aaf38fa5d9dcf9e0f749b39ac371bb64db452558a1bc8c81"
+        },
+        {
+          "upstream_path": "references/industry-benchmarks.md",
+          "local_path": "references/sources/sergebulaev/references/industry-benchmarks.md",
+          "sha256": "4167aaa6807c80acca8aa59c63f9e60ff3d7feeb808f6696860ff530c0c6bcb1"
+        },
+        {
+          "upstream_path": "references/story-bank.md",
+          "local_path": "references/sources/sergebulaev/references/story-bank.md",
+          "sha256": "1accec677836ceadc2ab803161cec6468e9555b24d45690ce46f08a2bd2456f2"
+        },
+        {
+          "upstream_path": "references/untrusted-content.md",
+          "local_path": "references/sources/sergebulaev/references/untrusted-content.md",
+          "sha256": "015021d0e34a6489d61670b79d2b7cf73e6e1f85f4fe3d47f0aa367a2d55cc56"
+        },
+        {
+          "upstream_path": "references/voice-profile.md",
+          "local_path": "references/sources/sergebulaev/references/voice-profile.md",
+          "sha256": "a4880406ae37c9e66b2f759f7d63b9d635faf316a35430148e50fe2c9b9053b5"
+        },
+        {
+          "upstream_path": "references/voice-rules.md",
+          "local_path": "references/sources/sergebulaev/references/voice-rules.md",
+          "sha256": "25782ffa33f1ff4f2eb3fb78634815350f6ab181fbc6beaa71bda728bfcfe69e"
+        },
+        {
+          "upstream_path": "skills/linkedin-comment-drafter/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-comment-drafter/SOURCE.md",
+          "sha256": "81af2d20a84432e9d2c9964243453f0187fe35673f04e11067d8286f34a4835a"
+        },
+        {
+          "upstream_path": "skills/linkedin-comment-drafter/references/comment-templates.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-comment-drafter/references/comment-templates.md",
+          "sha256": "496fcb4852c2e79e601eaf23ac79a978b3fe3096076518269254e00bf427be17"
+        },
+        {
+          "upstream_path": "skills/linkedin-comment-drafter/references/examples.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-comment-drafter/references/examples.md",
+          "sha256": "3c1d891b8c66b9654d73ddbe62a359720ec389cc3b2be489810cc8e00dee47c3"
+        },
+        {
+          "upstream_path": "skills/linkedin-comment-drafter/references/voice-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-comment-drafter/references/voice-rules.md",
+          "sha256": "2f34986133c7ab70c00ebc92fade4e060dcff903e0c1cb3dca64e0f96bebe701"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-planner/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-content-planner/SOURCE.md",
+          "sha256": "06a49bb5c69e69fda1e034d17868978f836a394ff1ef800a9c4c479c9322dd76"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-planner/references/example-plan-week.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-content-planner/references/example-plan-week.md",
+          "sha256": "b7f5da1fab977e42ceaa1b5c4714f22bf1ef9bdf8ea3f2057a19bdd3babac4c6"
+        },
+        {
+          "upstream_path": "skills/linkedin-content-planner/references/pillars-framework.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-content-planner/references/pillars-framework.md",
+          "sha256": "f62502734939e618c7fd99f5ab5420ea54f433ae94b3279206095d57933e8953"
+        },
+        {
+          "upstream_path": "skills/linkedin-employee-advocacy/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-employee-advocacy/SOURCE.md",
+          "sha256": "eff2818223f03574bcfc735c9b4c472af161a2b7b539c21e40639319b347d3dd"
+        },
+        {
+          "upstream_path": "skills/linkedin-employee-advocacy/references/advocacy-principles.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-employee-advocacy/references/advocacy-principles.md",
+          "sha256": "f858daa0c3045a4b5c20911ec7a828e29ccb0fcf8da9a8c8eb014a009b54697c"
+        },
+        {
+          "upstream_path": "skills/linkedin-employee-advocacy/references/governance-playbook.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-employee-advocacy/references/governance-playbook.md",
+          "sha256": "a3955bd7d050b2b5961d67fa2023fa924b1f7f28d514786d525fcec446873bee"
+        },
+        {
+          "upstream_path": "skills/linkedin-employee-advocacy/references/team-cadence-matrix.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-employee-advocacy/references/team-cadence-matrix.md",
+          "sha256": "eaa81e3752353e0fa1dc73d36ad30fe1d9588722df20a6943796d303ebc4190f"
+        },
+        {
+          "upstream_path": "skills/linkedin-engager-analytics/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-engager-analytics/SOURCE.md",
+          "sha256": "97b348d54e3a9f90d8d63019bd7ec22c4ceb0b6235dcc5d246bb5f5e603b4754"
+        },
+        {
+          "upstream_path": "skills/linkedin-engager-analytics/references/output-spec.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-engager-analytics/references/output-spec.md",
+          "sha256": "56ed0c7e6397576fab79c25da871cc93ed99adf82d696d0a6b8e628e87ee1f95"
+        },
+        {
+          "upstream_path": "skills/linkedin-hook-extractor/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-hook-extractor/SOURCE.md",
+          "sha256": "db4a791fb883bf64d8600587196dc8516b116364683c01900cfe9c7f0a2164e3"
+        },
+        {
+          "upstream_path": "skills/linkedin-hook-extractor/references/classification-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-hook-extractor/references/classification-rules.md",
+          "sha256": "a936a09b9ff8c9336112f0364c096d74a9c74ca4bb624149aba60cdf3f930203"
+        },
+        {
+          "upstream_path": "skills/linkedin-hook-extractor/references/examples.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-hook-extractor/references/examples.md",
+          "sha256": "b346c97edeaa0c51f02e27d7ca26a2aaf0afb629c93d0b16e3d642419be68256"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/SOURCE.md",
+          "sha256": "15d30a63d7f4bf4e60c82565dd25a0c729af038c70243dc6b22d3b672895bd0f"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/audit-ai-tells.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/audit-ai-tells.md",
+          "sha256": "87baf1ae90f04d2c8c5cb519ab65ecf48f961730548deeadcc737d51f22cb104"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/audit-checklist.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/audit-checklist.md",
+          "sha256": "94c200a1b8a90396bc59cae7d624e47f53b1222efb5a18c3ca8f9dda7f1489f4"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/audit-examples.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/audit-examples.md",
+          "sha256": "932c6a2465f02946f113a22ec9f882bffb3d6e4bda69c98770379a147d553de0"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/detector-list.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/detector-list.md",
+          "sha256": "200174145fa441f304fc52caae96fbc72e4ce9de36679a66a17d8ad11eb1ace4"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/emoji-patterns.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/emoji-patterns.md",
+          "sha256": "0d0334be2d4cf9700876cda92d2d8992a0d713aa2044059e5e1a340df8831c27"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/examples.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/examples.md",
+          "sha256": "5c30bb5699ff29661dadb5fa63438792eff30b710f960c02520df6f5ec52ea7a"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/rules-explainer.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/rules-explainer.md",
+          "sha256": "b1fc35ea0a3d364ea0bcfbb50ade0c9bb7096e855ff9ac4c9c38786ce72bbcff"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/scrub-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/scrub-rules.md",
+          "sha256": "9716865a9f78fb06f191c1b09836f28dcdb7753bee5336fe55d3754d6e90540d"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/tier-rationale.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/tier-rationale.md",
+          "sha256": "7c5fc51ff281adff25ba5e99b1dac3f7f70c615f90e61b80f45c4a97524e19fa"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/references/voice-fingerprint.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/references/voice-fingerprint.md",
+          "sha256": "2eb1af1a0b9a1f6a62dfb5ccd89f17cc73b99bfb883792fb8897a66acca40c4d"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/detector-tester.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/detector-tester.md",
+          "sha256": "91a5f3941c0af3be93b0d1eae6efb6df0837dce58af65468835913e54b7a4833"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/emoji-detector.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/emoji-detector.md",
+          "sha256": "fa4323dfc7792a025a29fd25d96ba13f29de9db6f99f1d5c2486b711e257696c"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/illustration.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/illustration.md",
+          "sha256": "68fe8b93402e44efe966e005934ecb78fbac7ede6f51d4f988e4ecbdae4c4f6f"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/post-audit.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/post-audit.md",
+          "sha256": "83be4f7e755143780a4bcfb0bf3b8f8b592095816f07f80a87010ea56aa9605a"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/rules-explainer.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/rules-explainer.md",
+          "sha256": "3b2a8c0b5eaab8fdc7ce1bcba77964a97712c42501f50b6ecac6891c1a64ca25"
+        },
+        {
+          "upstream_path": "skills/linkedin-humanizer/sub-skills/voice-profile.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-humanizer/sub-skills/voice-profile.md",
+          "sha256": "a82658e411a51405b06cb78db3ef083252aada07a0366472a9c34327aface05c"
+        },
+        {
+          "upstream_path": "skills/linkedin-interviewer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-interviewer/SOURCE.md",
+          "sha256": "64e95cdb1238e66a4ae2df2995e9c6ab6098ed02b7194db472c8075ba9200eb5"
+        },
+        {
+          "upstream_path": "skills/linkedin-interviewer/references/question-bank.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-interviewer/references/question-bank.md",
+          "sha256": "eebde9772408326129a1cc98b8431034292bb58bd451ab494c58dad5c465ef9b"
+        },
+        {
+          "upstream_path": "skills/linkedin-post-writer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-post-writer/SOURCE.md",
+          "sha256": "50dc3dbd5e63f0feb38edd91773c1cc9fa7d244343158503d9f3e6d77dfc686f"
+        },
+        {
+          "upstream_path": "skills/linkedin-post-writer/references/algorithm-heuristics.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-post-writer/references/algorithm-heuristics.md",
+          "sha256": "52f2508ad1374bc8c5a021bcd4d6fa78a927822ad60bd2896656d7b8abebb0d1"
+        },
+        {
+          "upstream_path": "skills/linkedin-post-writer/references/hook-formulas.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-post-writer/references/hook-formulas.md",
+          "sha256": "3140a869ea0857039fbb12a11bb5e418d7ee8f49e7315afddcb6507bc214f0de"
+        },
+        {
+          "upstream_path": "skills/linkedin-post-writer/references/humanizer-checklist.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-post-writer/references/humanizer-checklist.md",
+          "sha256": "36340062a0c8d119fae3da31923a6d1791cf7b6819f0cb263d95426a3e9290d8"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/SOURCE.md",
+          "sha256": "bfa2b0b69a42547d7cafb8528a4b0cb00471fa578eaa9641977c31338648388c"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/references/about-section-templates.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/references/about-section-templates.md",
+          "sha256": "61d20273275e75409652ffc7f13affe6c572eee400a2c5298605c1b0a7c6aa0c"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/references/banner-photo-specs.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/references/banner-photo-specs.md",
+          "sha256": "918c60044be5f3ac555fb411e052f389738cbab8623c20ca39bf23275e0b07ea"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/references/experience-skills-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/references/experience-skills-rules.md",
+          "sha256": "9dd685a08f59e306fa1ec58b68d2f727407fe6f42f36aab2bd45ff5cb4210282"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/references/featured-section-playbook.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/references/featured-section-playbook.md",
+          "sha256": "ef3209ad7177bab98b497b877297dcc988a01351ab021f4d4bbc656168d68976"
+        },
+        {
+          "upstream_path": "skills/linkedin-profile-optimizer/references/profile-headline-formulas.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-profile-optimizer/references/profile-headline-formulas.md",
+          "sha256": "8307154ec1c8a5b8eeb9dddd367a3e6d98711a3d9c8a095621dc21dfd5781e3d"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/SOURCE.md",
+          "sha256": "4fa68ca268de72fe2a2584634f71588f805ecd1c3c6423ab62350cde6a1cfeab"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/references/examples.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/references/examples.md",
+          "sha256": "6cfc52ab82628d6b0840fd0854ad4592fa1d270bc591ae7c083c0b8bd20d6b34"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/references/filtering-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/references/filtering-rules.md",
+          "sha256": "06238bd00828b4fddbb24e859015d8de8b982e88489f0188bf980991e7ecda38"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/references/reply-templates.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/references/reply-templates.md",
+          "sha256": "6892fbd90ab2b5ff15e18f49587cc64aab347cb12328abc23bb5996063911ab7"
+        },
+        {
+          "upstream_path": "skills/linkedin-reply-handler/references/threading-rules.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-reply-handler/references/threading-rules.md",
+          "sha256": "f4fd5974a5e9639bbd31bbc1af5e067aa24fc40f71441e2d325b50eefba504cf"
+        },
+        {
+          "upstream_path": "skills/linkedin-repurposer/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-repurposer/SOURCE.md",
+          "sha256": "8b5e1861d17ebfbc6a7cfcb8714ced0f59cd002cb22b5fdbadabb5746f726e19"
+        },
+        {
+          "upstream_path": "skills/linkedin-thread-monitor/SKILL.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-thread-monitor/SOURCE.md",
+          "sha256": "911dd932eab152b1852a9313db29c7989056464d4d85b965ffe6c33ea0b7786e"
+        },
+        {
+          "upstream_path": "skills/linkedin-thread-monitor/references/output-spec.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-thread-monitor/references/output-spec.md",
+          "sha256": "462d8f001365c3a28ca4668e3adf3dadbc953ab97cf66033c1da845573fbc260"
+        },
+        {
+          "upstream_path": "skills/linkedin-thread-monitor/references/thread-timing.md",
+          "local_path": "references/sources/sergebulaev/skills/linkedin-thread-monitor/references/thread-timing.md",
+          "sha256": "ce75e56ee61a1fc682990dbc49c197c50da49ec4ff38e55fd3ba70b4f7bfb196"
+        }
+      ]
+    },
+    {
+      "repo": "Jakeschincariol/linkedin-agent-skill",
+      "commit": "add2c23882fe79180737d242ff80a5da205eda6a",
+      "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+      "entrypoints": [
+        {
+          "upstream_path": "skills/li-audit/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-audit/SOURCE.md",
+          "sha256": "bdb5b12c699ca5d512b785f7168f8e494e020a1ff1195aaa9a58cd5b193c1bf2"
+        },
+        {
+          "upstream_path": "skills/li-carousel/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-carousel/SOURCE.md",
+          "sha256": "fa1a8801e661ed83e55eb5c44e0810a773b490eac930bd3200d783d4bbd23094"
+        },
+        {
+          "upstream_path": "skills/li-comment/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-comment/SOURCE.md",
+          "sha256": "05bfb1fb28976d6ee5d50b31ec7c8d7fc13fba9db71257dc1dad2a0ffd21e071"
+        },
+        {
+          "upstream_path": "skills/li-dm/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-dm/SOURCE.md",
+          "sha256": "14b0ee4cffedc2d3eb1d9f8dd6d6cce7bc04c95e221ea1e68809fb5aad525747"
+        },
+        {
+          "upstream_path": "skills/li-human/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-human/SOURCE.md",
+          "sha256": "2ebda9ff1b63f0d567cd8e30b6fc1465e05c46e166809ea0569cba3591d73d90"
+        },
+        {
+          "upstream_path": "skills/li-inbox/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-inbox/SOURCE.md",
+          "sha256": "816c1088fdac6a58295b9868267031b210eb57fd325bf837226fb764bce94c77"
+        },
+        {
+          "upstream_path": "skills/li-plan/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-plan/SOURCE.md",
+          "sha256": "5799665246d1c47ab6b37840bd4f4f94700f24ff54ae4d3a1fbaf49b1cd71f9b"
+        },
+        {
+          "upstream_path": "skills/li-post/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-post/SOURCE.md",
+          "sha256": "acfc8eadc47fee812f2dbaf8c97a93c313661d46963291bcbf8f154b065abee0"
+        },
+        {
+          "upstream_path": "skills/li-profile/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-profile/SOURCE.md",
+          "sha256": "4f0ebdcf8a3ef035d70aae89838ff916fc8a33a4a12b333e58bb2bc41727d11e"
+        },
+        {
+          "upstream_path": "skills/li-reply/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-reply/SOURCE.md",
+          "sha256": "26f95e55f384ca2ec1b692d3f95d08d33796fea404db8740387aca15b1248751"
+        },
+        {
+          "upstream_path": "skills/li-repurpose/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-repurpose/SOURCE.md",
+          "sha256": "9524d3958f153d8be3d679a372c8cb5065e30653ed2a7bf4596e921b2baa39df"
+        }
+      ],
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "references/sources/Jakeschincariol/LICENSE",
+          "sha256": "857c8d5276809c8196b3cd7cb3300324768bfc562b2b6281b06d6865058e186c"
+        },
+        {
+          "upstream_path": "README.md",
+          "local_path": "references/sources/Jakeschincariol/README.md",
+          "sha256": "50b579d4a3703a6a014200543acbbc2e1227ed89273fad5108012c30a69aea7e"
+        },
+        {
+          "upstream_path": "skills/li-audit/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-audit/SOURCE.md",
+          "sha256": "bdb5b12c699ca5d512b785f7168f8e494e020a1ff1195aaa9a58cd5b193c1bf2"
+        },
+        {
+          "upstream_path": "skills/li-carousel/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-carousel/SOURCE.md",
+          "sha256": "fa1a8801e661ed83e55eb5c44e0810a773b490eac930bd3200d783d4bbd23094"
+        },
+        {
+          "upstream_path": "skills/li-comment/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-comment/SOURCE.md",
+          "sha256": "05bfb1fb28976d6ee5d50b31ec7c8d7fc13fba9db71257dc1dad2a0ffd21e071"
+        },
+        {
+          "upstream_path": "skills/li-dm/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-dm/SOURCE.md",
+          "sha256": "14b0ee4cffedc2d3eb1d9f8dd6d6cce7bc04c95e221ea1e68809fb5aad525747"
+        },
+        {
+          "upstream_path": "skills/li-human/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-human/SOURCE.md",
+          "sha256": "2ebda9ff1b63f0d567cd8e30b6fc1465e05c46e166809ea0569cba3591d73d90"
+        },
+        {
+          "upstream_path": "skills/li-human/slop.json",
+          "local_path": "references/sources/Jakeschincariol/skills/li-human/slop.json",
+          "sha256": "2d227835a80ca20259c8d255501cb752cdc4232468c12bb9223fccf5acc724bb"
+        },
+        {
+          "upstream_path": "skills/li-inbox/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-inbox/SOURCE.md",
+          "sha256": "816c1088fdac6a58295b9868267031b210eb57fd325bf837226fb764bce94c77"
+        },
+        {
+          "upstream_path": "skills/li-plan/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-plan/SOURCE.md",
+          "sha256": "5799665246d1c47ab6b37840bd4f4f94700f24ff54ae4d3a1fbaf49b1cd71f9b"
+        },
+        {
+          "upstream_path": "skills/li-post/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-post/SOURCE.md",
+          "sha256": "acfc8eadc47fee812f2dbaf8c97a93c313661d46963291bcbf8f154b065abee0"
+        },
+        {
+          "upstream_path": "skills/li-post/hooks.json",
+          "local_path": "references/sources/Jakeschincariol/skills/li-post/hooks.json",
+          "sha256": "08988c9afae234199f51323c42baf2507101a4be2ba832384cf20f940972d712"
+        },
+        {
+          "upstream_path": "skills/li-profile/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-profile/SOURCE.md",
+          "sha256": "4f0ebdcf8a3ef035d70aae89838ff916fc8a33a4a12b333e58bb2bc41727d11e"
+        },
+        {
+          "upstream_path": "skills/li-profile/rubric.json",
+          "local_path": "references/sources/Jakeschincariol/skills/li-profile/rubric.json",
+          "sha256": "d1add490dad3cc32aab4826c3d5a40bd1552d26a92424deaad9ee2e3c7c05d14"
+        },
+        {
+          "upstream_path": "skills/li-reply/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-reply/SOURCE.md",
+          "sha256": "26f95e55f384ca2ec1b692d3f95d08d33796fea404db8740387aca15b1248751"
+        },
+        {
+          "upstream_path": "skills/li-repurpose/SKILL.md",
+          "local_path": "references/sources/Jakeschincariol/skills/li-repurpose/SOURCE.md",
+          "sha256": "9524d3958f153d8be3d679a372c8cb5065e30653ed2a7bf4596e921b2baa39df"
+        },
+        {
+          "upstream_path": "templates/voice.md",
+          "local_path": "references/sources/Jakeschincariol/templates/voice.md",
+          "sha256": "b12d87d932e4e3ab1dcd957c65fd973368a576839ce3f6974ad4f1e8d319bcc2"
+        }
+      ]
+    },
+    {
+      "repo": "Linked-API/linkedin-skills",
+      "commit": "e46beb9aea0af3896fd49dd7b39cff1061bf8f6d",
+      "url": "https://github.com/Linked-API/linkedin-skills",
+      "entrypoints": [
+        {
+          "upstream_path": "linkedin/SKILL.md",
+          "local_path": "references/sources/Linked-API/linkedin/SOURCE.md",
+          "sha256": "545ce70238a6c8d9f4cd83e59e232d2ecef8212637cbdad0d3ac80344dc7cc8b"
+        },
+        {
+          "upstream_path": "linkedin-growth/SKILL.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/SOURCE.md",
+          "sha256": "6ae283658bd250e3df2c5bf1c721d451e80e94e924a86f3bc83a43a9dd34826e"
+        }
+      ],
+      "files": [
+        {
+          "upstream_path": "LICENSE",
+          "local_path": "references/sources/Linked-API/LICENSE",
+          "sha256": "7847c051252042ad9449731b5482c9027395a2501dda2a9efa530637c5a8d4ac"
+        },
+        {
+          "upstream_path": "README.md",
+          "local_path": "references/sources/Linked-API/README.md",
+          "sha256": "8fcbeb192ce06f2dc669604485abbb3de3747c67a8b08ec875ddeb78deef3cc1"
+        },
+        {
+          "upstream_path": "linkedin/SKILL.md",
+          "local_path": "references/sources/Linked-API/linkedin/SOURCE.md",
+          "sha256": "545ce70238a6c8d9f4cd83e59e232d2ecef8212637cbdad0d3ac80344dc7cc8b"
+        },
+        {
+          "upstream_path": "linkedin-growth/SKILL.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/SOURCE.md",
+          "sha256": "6ae283658bd250e3df2c5bf1c721d451e80e94e924a86f3bc83a43a9dd34826e"
+        },
+        {
+          "upstream_path": "linkedin-growth/commands/linkedin-growth-config.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/commands/linkedin-growth-config.md",
+          "sha256": "b77e1500187245b43eca79db3637488a61ac42023552a8e696cf7e49079a0c3f"
+        },
+        {
+          "upstream_path": "linkedin-growth/commands/linkedin-growth-import.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/commands/linkedin-growth-import.md",
+          "sha256": "28ff2dbf24ecaa6d589ab161e67cc7705e047b690e8fb587320f3616b6693e05"
+        },
+        {
+          "upstream_path": "linkedin-growth/commands/linkedin-growth-setup.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/commands/linkedin-growth-setup.md",
+          "sha256": "84170ffbffd4ef0f58ddacb73506562c688a1730d4d019b252812172998f9b8a"
+        },
+        {
+          "upstream_path": "linkedin-growth/commands/linkedin-growth-status.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/commands/linkedin-growth-status.md",
+          "sha256": "394c3094d631c6c5559c650cb33cd628bc82be18d965561caa5c5113b4501997"
+        },
+        {
+          "upstream_path": "linkedin-growth/config/defaults.json",
+          "local_path": "references/sources/Linked-API/linkedin-growth/config/defaults.json",
+          "sha256": "716a206f648318d9e520aecd76ec964799d21d8b825a1c10ef3e2380b8137bb9"
+        },
+        {
+          "upstream_path": "linkedin-growth/config/qualification-prompt.md",
+          "local_path": "references/sources/Linked-API/linkedin-growth/config/qualification-prompt.md",
+          "sha256": "2cecc338a33bc02bbe7816ee43b9970376152f5a6e8939bb9e80bb726c5456c7"
+        }
+      ]
+    }
+  ]
+}

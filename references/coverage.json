@@ -1,0 +1,53 @@
+{
+  "source_entrypoints": 35,
+  "functional_skills": 32,
+  "routers": 3,
+  "modules": 12,
+  "mapping": {
+    "quantumbyte31:linkedin-auth": "linkedin-auth",
+    "quantumbyte31:linkedin-explore": "linkedin-research",
+    "browsing-skills:browsing-linkedin": "linkedin-research",
+    "quantumbyte31:linkedin-content-ops": "linkedin-strategy",
+    "sergebulaev:linkedin-content-planner": "linkedin-strategy",
+    "sergebulaev:linkedin-employee-advocacy": "linkedin-strategy",
+    "Jakeschincariol:li-plan": "linkedin-strategy",
+    "sergebulaev:linkedin-hook-extractor": "linkedin-writing",
+    "sergebulaev:linkedin-post-writer": "linkedin-writing",
+    "sergebulaev:linkedin-repurposer": "linkedin-writing",
+    "Jakeschincariol:li-post": "linkedin-writing",
+    "Jakeschincariol:li-repurpose": "linkedin-writing",
+    "sergebulaev:linkedin-humanizer": "linkedin-quality",
+    "sergebulaev:linkedin-interviewer": "linkedin-quality",
+    "Jakeschincariol:li-human": "linkedin-quality",
+    "sergebulaev:linkedin-comment-drafter": "linkedin-comments",
+    "sergebulaev:linkedin-reply-handler": "linkedin-comments",
+    "sergebulaev:linkedin-thread-monitor": "linkedin-comments",
+    "Jakeschincariol:li-comment": "linkedin-comments",
+    "Jakeschincariol:li-reply": "linkedin-comments",
+    "Jakeschincariol:li-inbox": "linkedin-comments",
+    "quantumbyte31:linkedin-publish": "linkedin-publishing",
+    "quantumbyte31:linkedin-interact": "linkedin-engagement",
+    "Jakeschincariol:li-dm": "linkedin-engagement",
+    "sergebulaev:linkedin-profile-optimizer": "linkedin-profile",
+    "Jakeschincariol:li-profile": "linkedin-profile",
+    "quantumbyte31:linkedin-lead-gen": "linkedin-leads",
+    "Linked-API:linkedin-growth": "linkedin-leads",
+    "sergebulaev:linkedin-engager-analytics": "linkedin-analytics",
+    "Jakeschincariol:li-audit": "linkedin-analytics",
+    "Jakeschincariol:li-carousel": "linkedin-visuals",
+    "Linked-API:linkedin": "linkedin-research, linkedin-auth, linkedin-publishing, linkedin-engagement, linkedin-analytics"
+  },
+  "routers_merged": [
+    "quantumbyte31:linkedin-skills",
+    "browsing-skills:browsing-skills",
+    "sergebulaev:linkedin-marketing"
+  ],
+  "nested_workflows": {
+    "voice-profile": "linkedin-quality",
+    "post-audit": "linkedin-quality",
+    "emoji-detector": "linkedin-quality",
+    "rules-explainer": "linkedin-quality",
+    "detector-tester": "linkedin-quality",
+    "illustration": "linkedin-visuals"
+  }
+}

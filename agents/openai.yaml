@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Master"
+  short_description: "Research, write, review and plan LinkedIn content"
+  default_prompt: "Use $linkedin-master to create a source-backed LinkedIn content package for my audience."
